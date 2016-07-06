@@ -13,8 +13,8 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 ```bash
 # After installing the dependencies, install the bot
 cd $HOME
-git clone https://github.com/LucentW/s-uzzbot.git
-cd s-uzzbot
+git clone https://github.com/zaeem998/silver_bot.git
+cd silver_bot
 ./launch.sh install
 ./launch.sh # Will ask you for a phone number & confirmation code or just your bot token.
 ```
